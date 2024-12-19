@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhudayguliyev" alt="mhudayguliyev" /></a> </p>
 
-- 📝 I regularly write articles on [www.linkedin.com/in/hudayguly](www.linkedin.com/in/hudayguly)
+- 📝 I regularly write articles on https://www.linkedin.com/in/hudayguly
 
 - 📫 How to reach me **hudayguliyevm@gmail.com**
 
