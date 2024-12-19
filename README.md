@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hudayguly</h1>
-<h3 align="center">A passionate Frontend Developer with 4+ years of experience designing and implementing high-performance, user-centric web solutions. Proficient in modern web technologies including HTML5, CSS3, ECMAScript, ReactJS, NextJS, Redux, and TypeScript, with a strong focus on creating responsive, mobile-first designs using TailwindCSS and Sass. Committed to staying ahead of industry trends and leveraging innovative solutions to exceed client and organizational goals. Fluent in English, Russian, Turkish, and Turkmen, with a multicultural perspective for global collaboration.</h3>
+<h3 align="center">A passionate Frontend Developer with 4+ years of experience designing and implementing high-performance, user-centric web solutions. Proficient in modern web technologies including HTML5, CSS3, ECMAScript, ReactJS, NextJS, Redux, and TypeScript, with a strong focus on creating responsive, mobile-first designs using TailwindCSS and Sass./h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhudayguliyev&label=Profile%20views&color=0e75b6&style=flat" alt="mhudayguliyev" /> </p>
 
